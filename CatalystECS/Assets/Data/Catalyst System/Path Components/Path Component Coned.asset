@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9852a4a00d6a53d45a3a349cf3b59210, type: 3}
+  m_Name: Path Component Coned
+  m_EditorClassIdentifier: 
+  _damageRangedFloat:
+    MinValue: 6.0682673
+    MaxValue: 14.014808
+  _cooldownRangedFloat:
+    MinValue: 1.2642224
+    MaxValue: 1.9505146
+  _value: 20
+  _weight: 20
+  Directions: 0100000007000000

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalystECS", "CatalystECS.csproj", "{14570117-AD4F-7BD3-0B0D-ACF63B4D0D5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalystECS.Editor", "CatalystECS.Editor.csproj", "{ABDFCBE8-B975-E709-66DC-7C07DB06D666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14570117-AD4F-7BD3-0B0D-ACF63B4D0D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14570117-AD4F-7BD3-0B0D-ACF63B4D0D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14570117-AD4F-7BD3-0B0D-ACF63B4D0D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14570117-AD4F-7BD3-0B0D-ACF63B4D0D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABDFCBE8-B975-E709-66DC-7C07DB06D666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDFCBE8-B975-E709-66DC-7C07DB06D666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDFCBE8-B975-E709-66DC-7C07DB06D666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDFCBE8-B975-E709-66DC-7C07DB06D666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
