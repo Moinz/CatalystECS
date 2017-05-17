@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 723201180d0514048a2c1f494fa9296f, type: 3}
+  m_Name: Katana Melee
+  m_EditorClassIdentifier: 
+  _attackSpeedRange:
+    MinValue: 0.6045771
+    MaxValue: 0.99009824
+  _attackDamageRange:
+    MinValue: 4.0268455
+    MaxValue: 6.0098276
+  _weight: 10
+  _value: 12
+  HitboxPrefab: {fileID: 114062857671278772, guid: 8114c96e67c35c74eb55e82a3ac38950,
+    type: 2}
+  _frameNumber: 11
+  _icon: {fileID: 21300000, guid: 89f786c660f53cd4390f32d8e9ba3f83, type: 3}
+  _attackType: 0
+  _criticalChance: 0.4
+  _criticalMultiplier: 1.5

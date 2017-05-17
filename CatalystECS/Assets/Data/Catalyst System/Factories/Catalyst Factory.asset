@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14b4d464bba91794a93373592254e9db, type: 3}
+  m_Name: Catalyst Factory
+  m_EditorClassIdentifier: 
+  _meleeComponents:
+  - {fileID: 11400000, guid: ec39c67cf9e5b9840ba9fdee806a93e0, type: 2}
+  - {fileID: 11400000, guid: 27015e43cfdbee2438c9ac6a15486205, type: 2}
+  - {fileID: 11400000, guid: adcd5e3271430b44dbc3d47eab84617b, type: 2}
+  - {fileID: 11400000, guid: da815ef9f507b8f40ac60958e1e6d204, type: 2}
+  - {fileID: 11400000, guid: 7f38ef0d4e37c4d4c812633059cc8b8d, type: 2}
+  - {fileID: 11400000, guid: f40f058cfd790f7498551679a4a44e32, type: 2}
+  - {fileID: 11400000, guid: f4444edb62b81d340aa52e5c6190f193, type: 2}
+  - {fileID: 11400000, guid: 2f60b75499bfd8c4b8122efcd470bf2a, type: 2}
+  - {fileID: 11400000, guid: c6fb5812a9aa2e64596d4888d497bc6a, type: 2}
+  - {fileID: 11400000, guid: 0f1f9dc36ba2d9848a7c864d567a544d, type: 2}
+  - {fileID: 11400000, guid: 712d7d0c125dce141998288accee5a3d, type: 2}
+  - {fileID: 11400000, guid: ec7e992c2573a4a46b89a63f2a59afdc, type: 2}
+  _curseComponents:
+  - {fileID: 11400000, guid: a06e6bab457457d4e854a771c63478f1, type: 2}
+  - {fileID: 11400000, guid: f687503f676df6940831b754cf96d8ff, type: 2}
+  - {fileID: 11400000, guid: ac85b2c0498682c498374f59aba14ec1, type: 2}

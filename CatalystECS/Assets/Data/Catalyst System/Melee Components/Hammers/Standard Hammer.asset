@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fd021ae124bdc94eb24a47065e43e72, type: 3}
+  m_Name: Standard Hammer
+  m_EditorClassIdentifier: 
+  _attackSpeedRange:
+    MinValue: 0.7955
+    MaxValue: 1.0059688
+  _attackDamageRange:
+    MinValue: 6.004518
+    MaxValue: 8.022707
+  _weight: 20
+  _value: 5
+  HitboxPrefab: {fileID: 114062857671278772, guid: 8114c96e67c35c74eb55e82a3ac38950,
+    type: 2}
+  _frameNumber: 3
+  _icon: {fileID: 21300000, guid: c4dde61dd01ab754aa97d552b3bbe979, type: 3}
+  _secondEffectComponent: {fileID: 11400000, guid: 5695817647ba0dc4687b9998553720d0,
+    type: 2}
